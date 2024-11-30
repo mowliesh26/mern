@@ -1,0 +1,11 @@
+    .notfound {
+        display: block;
+        margin-top: 70px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    .navigate{
+        text-align: center;
+        
+    }

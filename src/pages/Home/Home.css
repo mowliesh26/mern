@@ -1,0 +1,18 @@
+/* .Navbar{
+     background-color: rgb(161, 161, 161) !important;
+     display: flex;
+     justify-content: center;
+
+}
+.HeaderContent{
+    background-color: rgb(161, 161, 161) !important;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+} */
+.headerContent{
+    background-color: rgb(161, 161, 161) !important;
+    color: black;
+    height: 10vh;
+
+}
